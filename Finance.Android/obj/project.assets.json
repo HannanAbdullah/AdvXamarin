@@ -805,11 +805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance.Android\\Finance.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance.Android\\Finance.Android.csproj",
       "projectName": "Finance.Android",
-      "projectPath": "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance.Android\\Finance.Android.csproj",
+      "projectPath": "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance.Android\\Finance.Android.csproj",
       "packagesPath": "C:\\Users\\Missy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance.Android\\obj\\",
+      "outputPath": "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -830,8 +830,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance\\Finance.csproj": {
-              "projectPath": "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance\\Finance.csproj"
+            "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance\\Finance.csproj": {
+              "projectPath": "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance\\Finance.csproj"
             }
           }
         }

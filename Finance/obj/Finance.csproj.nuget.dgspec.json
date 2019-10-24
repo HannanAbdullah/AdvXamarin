@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance\\Finance.csproj": {}
+    "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance\\Finance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance\\Finance.csproj": {
+    "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance\\Finance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance\\Finance.csproj",
+        "projectUniqueName": "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance\\Finance.csproj",
         "projectName": "Finance",
-        "projectPath": "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance\\Finance.csproj",
+        "projectPath": "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance\\Finance.csproj",
         "packagesPath": "C:\\Users\\Missy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance\\obj\\",
+        "outputPath": "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

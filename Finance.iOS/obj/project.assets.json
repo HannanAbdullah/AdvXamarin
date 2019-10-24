@@ -724,11 +724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance.iOS\\Finance.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance.iOS\\Finance.iOS.csproj",
       "projectName": "Finance.iOS",
-      "projectPath": "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance.iOS\\Finance.iOS.csproj",
+      "projectPath": "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance.iOS\\Finance.iOS.csproj",
       "packagesPath": "C:\\Users\\Missy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -749,8 +749,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance\\Finance.csproj": {
-              "projectPath": "C:\\Users\\Missy\\Downloads\\Source-code-App-Center-A-New-Project\\Finance\\Finance.csproj"
+            "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance\\Finance.csproj": {
+              "projectPath": "C:\\Users\\Missy\\source\\repos\\NewProject\\Finance\\Finance.csproj"
             }
           }
         }
